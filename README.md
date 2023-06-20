@@ -28,7 +28,7 @@
 
 > Positive correlation between glucose and insulin
 
-> There are alot of younger women without diabetes
+> The older women have diabetes more than the younger women
 
 > The BMI and bloodpressure is the most correlated pair
 
